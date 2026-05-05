@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\cbDice",
+    "\\losses",
+    "\\Model",
+    "\\nnUNet",
+    "\\nnUNet\\documentation",
+    "\\nnUNet\\nnunetv2",
+    "\\nnUNet\\nnunetv2\\training",
+    "\\nnUNet\\nnunetv2\\training\\loss",
+    "\\nnUNet\\nnunetv2\\training\\nnUNetTrainer"
+  ],
+  "SelectedNode": "\\Model\\tempCodeRunnerFile.py",
+  "PreviewInSolutionExplorer": false
+}
